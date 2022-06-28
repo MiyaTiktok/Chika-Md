@@ -39,7 +39,7 @@ global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/chikabot'
 global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
+global.region = 'malaysia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
